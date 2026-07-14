@@ -1,4 +1,4 @@
-import { MessageCircle, Globe } from 'lucide-react';
+import { MessageCircle } from 'lucide-react';
 import InstagramIcon from './InstagramIcon';
 import Navbar from './Navbar';
 import { HERO_BG } from './images';
